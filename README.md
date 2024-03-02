@@ -12,6 +12,7 @@
 We’ll build a simple Chatbot flow builder using React and try to make the code extensible to easily add new features. 
 A chatbot flow is built by connecting multiple messages together to decide the order of executio.
 
+![Text node](https://github.com/kanon551/BiteSpeed/assets/88090133/f5c7dfbf-4c7d-46ea-a687-56e86c35d9c7)
 
 
 # **Note →** 
@@ -39,6 +40,7 @@ A chatbot flow is built by connecting multiple messages together to decide the o
     2. Can have **more than one edge** connecting to a target handle 
 # **Settings Panel**
 
+![Settings panel](https://github.com/kanon551/BiteSpeed/assets/88090133/71a33127-3b41-4f0d-bd47-e536a3ba55cf)
 
 
 1. Settings Panel will replace the Nodes Panel when a Node is selected
@@ -46,3 +48,11 @@ A chatbot flow is built by connecting multiple messages together to decide the o
 # **Save Button**
     1. Button to save the flow 
     2. **Save button press will show an error if there are more than one Nodes and more than one Node has empty target handles**
+
+
+![final](https://github.com/kanon551/BiteSpeed/assets/88090133/f373c728-58bc-4d47-8097-2c42df14b272)
+
+
+
+
+    

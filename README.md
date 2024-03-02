@@ -8,6 +8,10 @@
 5. Context API
 
 
+https://github.com/kanon551/BiteSpeed/assets/88090133/a1fd77bd-a196-4fcb-ad93-67e96810212a
+
+
+
 ## Overview:
 We’ll build a simple Chatbot flow builder using React and try to make the code extensible to easily add new features. 
 A chatbot flow is built by connecting multiple messages together to decide the order of executio.
